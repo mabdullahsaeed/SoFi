@@ -1,0 +1,1 @@
+This project uses pan gesture to make a very simple game. You can move the cow and grass around. If you tap on cow it produces moo sound and if you tickle it, it produces laughing sound

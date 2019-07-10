@@ -1,0 +1,1 @@
+This project uses iTunes API with URLSession to search for songs, download songs, pause the download, show progress of download and cancel the download
